@@ -1,2 +1,2 @@
 # hello-world
-Welcome to GitHub
+Welcome to the world of GitHub
